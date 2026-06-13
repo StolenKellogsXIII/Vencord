@@ -1,5 +1,5 @@
 :root{
-     --background: url('https://github.com/StolenKellogsXIII/BetterDiscordThemes/blob/bfd3e60de4f675ba2467d3927f0fefc0a24d8271/Frieren%20Live%20Theme/Frieren_Live.gif');
+     --background: url('https://github.com/StolenKellogsXIII/Vencord/blob/8a27529bf8b6d6b30528009c39e7118003c38d61/Themes/JJK/Shibuya.mp4');
      --activetext-colour: white;
  
      --primary1-colour: red;
@@ -1175,7 +1175,7 @@
 
 /*TopBar*/ 
     #app-mount .title_c38106::before {
-        content: "Frieren Live Theme v1.0.X By Idlecumber27";
+        content: "JJK Shibuya v1.0.0 By Idle";
         color: rgb(255,255,255,0.5);
         font-weight: 500;
 
