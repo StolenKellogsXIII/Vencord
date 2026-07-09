@@ -1,5 +1,5 @@
 :root{
-     --background: url('https://github.com/StolenKellogsXIII/BetterDiscordThemes/blob/bfd3e60de4f675ba2467d3927f0fefc0a24d8271/Frieren%20Live%20Theme/Frieren_Live.gif');
+     --background: url('https://github.com/StolenKellogsXIII/Vencord/blob/a9982cbeb9fcb6495f23a46afdf1350dadf59199/Themes/Golf_Pink/ezgif-1d28ce7ef8714d7e.gif');
      --activetext-colour: white;
  
      --primary1-colour: red;
@@ -1175,7 +1175,7 @@
 
 /*TopBar*/ 
     #app-mount .title_c38106::before {
-        content: "ER Ranni v1.0.0 By Idle";
+        content: "Cer :)";
         color: rgb(255,255,255,0.5);
         font-weight: 500;
 
